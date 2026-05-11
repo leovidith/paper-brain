@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-05-10T20:30:40.619081",
+    "user": "this report is submitted by ?",
+    "ai": "This project report is submitted by Nindujerla Sandeep Rao (Y22CM119), Kota Sai Vidith (Y22CM084), and Korabandi Ajay Babu (Y22CM082).",
+    "sources": [
+      {
+        "file": "report final draft.pdf",
+        "page": 2
+      },
+      {
+        "file": "report final draft.pdf",
+        "page": 76
+      },
+      {
+        "file": "report final draft.pdf",
+        "page": 43
+      },
+      {
+        "file": "report final draft.pdf",
+        "page": 68
+      }
+    ],
+    "output_flagged": false
+  }
+]

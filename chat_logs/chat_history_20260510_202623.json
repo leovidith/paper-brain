@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-05-10T20:26:55.891493",
+    "user": "whats the date of this report?",
+    "ai": "I don't know based on the provided documents. The context mentions various years such as 2017, 2019, and 2020, but it does not specify the date of the report itself.",
+    "sources": [
+      {
+        "file": "report final draft.pdf",
+        "page": 10
+      },
+      {
+        "file": "report final draft.pdf",
+        "page": 73
+      },
+      {
+        "file": "report final draft.pdf",
+        "page": 75
+      },
+      {
+        "file": "report final draft.pdf",
+        "page": 43
+      }
+    ],
+    "output_flagged": false
+  }
+]
